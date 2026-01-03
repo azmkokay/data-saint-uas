@@ -1,1 +1,0 @@
-print("my name azzam ari mukti\n15240017\n15.3A.01")
